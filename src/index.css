@@ -1,0 +1,20 @@
+.first{
+  position:absolute;
+  top:100px;
+  left:100px;
+}
+.second{
+ position:absolute;
+ top:100px;
+ left:400px;
+}
+.button{
+ position:absolute;
+ top:115px;
+ left:700px;
+}
+.out{
+ position:relative;
+ top:215px;
+ left:100px;
+}
